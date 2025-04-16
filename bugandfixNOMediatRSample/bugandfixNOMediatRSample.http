@@ -1,0 +1,6 @@
+@bugandfixNOMediatRSample_HostAddress = http://localhost:5193
+
+GET {{bugandfixNOMediatRSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
